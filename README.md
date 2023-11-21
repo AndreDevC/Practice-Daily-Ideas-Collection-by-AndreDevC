@@ -1,39 +1,39 @@
-# Project-Ideas
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
+###
 
-# :ledger: App Ideas Collection
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-Embark on a coding journey with me, a haven where creativity meets skill enhancement! Ever faced the dilemma of choosing the next coding project? Similar to writers encountering 'writers block,' developers experience moments of uncertainty. This curated collection aims to banish that uncertainty and provide you with a roadmap for your daily coding endeavors. 👩‍💻👨‍💻
+###
 
-These applications are:
+<h2 align="left">About me</h2>
 
-:star-icon: Ideal for honing your coding prowess and enhancing your skills :muscle:;
-✨ Perfect for exploring cutting-edge technologies and staying ahead of the curve 🆕;
-✨ Tailored for enriching your portfolio, leaving a lasting impression on future employers or clients :file_folder:;
-✨ Suited for crafting engaging tutorials, whether in articles or videos :page_with_curl:;
-✨ Designed for ease of completion and effortless expansion with additional features :ok_hand:;
+###
 
-This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-Each project has the following **features**:
+###
 
-1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
-4. All the resources and links to help you find what you need to complete the project
+<h2 align="left">I code with</h2>
 
-Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
+###
 
-## Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-Projects are divided into three tiers based on the knowledge and experience
-required to complete them.
-
-| Tier | Developer Profile                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
-
-🌟 - New Project
+###
