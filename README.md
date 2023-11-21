@@ -8,11 +8,11 @@ Embark on a coding journey with me, a haven where creativity meets skill enhance
 
 These applications are:
 
-✨ Ideal for honing your coding prowess and enhancing your skills 💪
-✨ Perfect for exploring cutting-edge technologies and staying ahead of the curve 🆕
-✨ Tailored for enriching your portfolio, leaving a lasting impression on future employers or clients 📁
-✨ Suited for crafting engaging tutorials, whether in articles or videos 📃
-✨ Designed for ease of completion and effortless expansion with additional features 👌
+:star-icon: Ideal for honing your coding prowess and enhancing your skills :muscle:;
+✨ Perfect for exploring cutting-edge technologies and staying ahead of the curve 🆕;
+✨ Tailored for enriching your portfolio, leaving a lasting impression on future employers or clients :file_folder:;
+✨ Suited for crafting engaging tutorials, whether in articles or videos :page_with_curl:;
+✨ Designed for ease of completion and effortless expansion with additional features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
