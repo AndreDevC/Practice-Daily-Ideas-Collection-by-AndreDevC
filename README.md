@@ -1,31 +1,40 @@
 # Project-Ideas
 
-Code Mastery Showcase 🚀
-Embark on a coding journey with the Code Mastery Showcase, a haven where creativity meets skill enhancement! Ever faced the dilemma of choosing the next coding project? Similar to writers encountering 'writers block,' developers experience moments of uncertainty. This curated collection aims to banish that uncertainty and provide you with a roadmap for your daily coding endeavors. 👩‍💻👨‍💻
+[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
 
-Discover Projects
-Explore projects that are:
+# :ledger: App Ideas Collection
 
-✨ Ideal for honing your coding prowess and enhancing your skills 💪
-✨ Perfect for exploring cutting-edge technologies and staying ahead of the curve 🆕
-✨ Tailored for enriching your portfolio, leaving a lasting impression on future employers or clients 📁
-✨ Suited for crafting engaging tutorials, whether in articles or videos 📃
-✨ Designed for ease of completion and effortless expansion with additional features 👌
-This isn't just a list of projects; it's a comprehensive collection, offering detailed insights into each endeavor to guide you from inception to completion!
+Have you ever wanted to build something but you had no idea what to do? Just as
+authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
 
-Each project boasts:
+These applications are:
 
-🔍 A clear and descriptive objective
-📝 User Stories that serve as flexible guidelines rather than rigid to-dos; feel free to inject your own creativity!
-🌟 Bonus features that not only elevate the base project but also enhance your skills (optional and recommended after completing the required user stories)
-🔗 All the necessary resources and links to facilitate your journey
-Dive into this repository and catch a glimpse in this video.
+-   great for improving your coding skills :muscle:;
+-   great for experimenting with new technologies 🆕;
+-   great for adding to your portfolio to impress your next employer/client :file_folder:;
+-   great for using as examples in tutorials (articles or videos) :page_with_curl:;
+-   easy to complete and also easily extendable with new features :ok_hand:;
 
-Projects
-Projects are categorized into three tiers, catering to developers at different stages of their learning and experience:
+This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
-Tier	Developer Profile
-1	Developers in the early stages, focused on creating user-facing applications.
-2	Developers at an intermediate stage, comfortable with UI/UX, development tools, and building apps that utilize API services.
-3	Developers who have mastered the basics and are delving into advanced techniques like implementing backend applications and database services.
-Join us in the Code Mastery Showcase, where your daily code posting journey transforms into a dynamic exploration of creativity and skill development! 🌐🚀
+Each project has the following **features**:
+
+1. A clear and descriptive objective;
+2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
+3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
+4. All the resources and links to help you find what you need to complete the project
+
+Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
+
+## Projects
+
+Projects are divided into three tiers based on the knowledge and experience
+required to complete them.
+
+| Tier | Developer Profile                                                                                                                                                |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
+|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
+|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+
+🌟 - New Project
